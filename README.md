@@ -1,3 +1,8 @@
+<p align="center">
+    <h1 align="center">Yii 2 Test Project</h1>
+    <br>
+</p>
+
 INSTALLATION
 ------------
 
